@@ -3,3 +3,7 @@ background-color: rgba(0, 0, 0, 0.9);
 color: rgba(229, 229, 229, 0.8);
 }
 
+.dish-img {
+  width: 200px;
+  height: auto;
+}
