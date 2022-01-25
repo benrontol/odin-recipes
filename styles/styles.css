@@ -13,7 +13,9 @@ color: rgba(229, 229, 229, 0.8);
 }
 
 .main-area {
-  padding: 0px 80px 80px 80px;
+  /* padding: 0px 80px 80px 80px; */
+  width: 700px;
+  margin: 0 auto;
 }
 
 .dish-img {
